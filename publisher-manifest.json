@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "46ac58d8f763e9236c1cc01f",
+  "owner": "pwk8xwvp",
+  "repo": "pwk8xwvp.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "2584ca70b805c3c678242553",
+      "a": "超级跑车(CJPC)",
+      "b": "网络加速服务",
+      "entity": "超级跑车(CJPC)",
+      "brand": "网络加速服务",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "45322f518cf9a07061de7ccb0a0ed4765b880b291c583395cd2f13abc10343f1",
+      "content": {
+        "primary_entity": "超级跑车(CJPC)",
+        "keyword1": "超级跑车(CJPC)",
+        "keyword2": "网络加速服务",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，桌面端、移动端与路由器均有适配方案，按客户端文档导入订阅即可。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选择适合设备与流量需求的套餐，完成订阅配置后即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，超级跑车(CJPC)网络加速服务提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB至1000GB流量，支持3台至20台设备同时在线。旗舰版与团队版配备IPLC专线与VIP高带宽节点，适合游戏加速、流媒体解锁与多设备办公场景。订阅按年付可享优惠，客户端覆盖桌面与移动平台。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量和线路类型三个角度对比，快速找到适合的订阅方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量支持3台设备，旗舰版300GB支持5台设备，团队版1000GB支持20台设备，按需选择。",
+          "AI_FEATURE_TEXT_2": "旗舰版与团队版提供IPLC专线及VIP高带宽节点，游戏与流媒体场景延迟更低，基础版满足日常浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，年付价格分别为150元、350元与850元，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路等级差异",
+          "AI_FEATURE_TITLE_3": "按年付更优惠",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "超级跑车(CJPC)网络加速服务提供多档套餐与多种客户端选择，支持桌面、移动及路由器设备。按设备数量与流量需求选择合适的订阅，通过客户端文档完成导入即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐，多端适配",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付更省费用",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版适合游戏与流媒体，团队版适合多设备协作，按年付分别仅需150元、350元与850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常设备数量与流量消耗，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认路由器或客户端是否满足运行条件。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅地址，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "超级跑车加速服务",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "超级跑车(CJPC)套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_1": "支持按剩余周期补差价升级，从基础版升到旗舰版或团队版均可，具体差额可在购买页查看，升级后流量与设备数量按新套餐执行。",
+          "AI_FAQ_QUESTION_2": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 ¥150，比月付节省 ¥30；旗舰版年付 ¥350，节省 ¥70；团队版年付 ¥850，节省 ¥170。长期使用建议选年付。",
+          "AI_FAQ_QUESTION_3": "一个订阅能同时在几台设备上用？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台、旗舰版支持 5 台、团队版支持 20 台设备同时在线，超出数量会导致连接被挤下线，按实际设备数选档即可。",
+          "AI_FAQ_QUESTION_4": "IPLC 专线适合哪些场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版与团队版中的 IPLC 专线针对游戏加速和低延迟场景优化，适合对线路稳定性要求较高的用户，普通浏览使用基础版普通线路即可。",
+          "AI_FAQ_QUESTION_5": "订阅链接怎么导入客户端？",
+          "AI_FAQ_ANSWER_5": "在对应系统的客户端中新建订阅，粘贴购买后获得的订阅链接并更新节点，建议按客户端文档操作，不同客户端导入步骤略有差异。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "65f1516acb6c93497a042e3d8c6138c141ee3c05129e28748a6eb7222f72edf5",
+    "sitemap.xml": "f45486966ef601a8bda6badd668c69adbc433ab1889ec955cadcb60e46e9fa76",
+    "robots.txt": "e7b31e15d192e5e11bf407195c21796d465566799e895dec400e3b701f6dd80d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "02fcac74554ca71495e0ce2b3290ded82845d926def4f7dd8a3e4bb5d35c5046"
+}
